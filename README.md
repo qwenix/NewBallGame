@@ -1,2 +1,2 @@
 # NewBallGame
-A simple game developed with WinForms
+A simple game in two interpretations: console and WinForms
