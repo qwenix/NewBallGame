@@ -1,0 +1,69 @@
+C:\Users\Денис\source\repos\NewBallGame\NewBallGame\bin\Debug\NewBallGame.exe.config
+C:\Users\Денис\source\repos\NewBallGame\NewBallGame\bin\Debug\NewBallGame.exe
+C:\Users\Денис\source\repos\NewBallGame\NewBallGame\bin\Debug\NewBallGame.pdb
+C:\Users\Денис\source\repos\NewBallGame\NewBallGame\obj\Debug\NewBallGame.csprojAssemblyReference.cache
+C:\Users\Денис\source\repos\NewBallGame\NewBallGame\obj\Debug\NewBallGame.csproj.CoreCompileInputs.cache
+C:\Users\Денис\source\repos\NewBallGame\NewBallGame\obj\Debug\NewBallGame.exe
+C:\Users\Денис\source\repos\NewBallGame\NewBallGame\obj\Debug\NewBallGame.pdb
+F:\NewBallGame\NewBallGame\obj\Debug\NewBallGame.csprojResolveAssemblyReference.cache
+F:\NewBallGame\NewBallGame\obj\Debug\NewBallGame.csproj.CoreCompileInputs.cache
+F:\NewBallGame\NewBallGame\obj\Debug\NewBallGame.exe
+F:\NewBallGame\NewBallGame\obj\Debug\NewBallGame.pdb
+F:\NewBallGame\NewBallGame\bin\Debug\NewBallGame.exe.config
+F:\NewBallGame\NewBallGame\bin\Debug\NewBallGame.exe
+F:\NewBallGame\NewBallGame\bin\Debug\NewBallGame.pdb
+D:\Visual Studio\Projects\NewBallGame\NewBallGame\bin\Debug\NewBallGame.exe.config
+D:\Visual Studio\Projects\NewBallGame\NewBallGame\bin\Debug\NewBallGame.exe
+D:\Visual Studio\Projects\NewBallGame\NewBallGame\bin\Debug\NewBallGame.pdb
+D:\Visual Studio\Projects\NewBallGame\NewBallGame\obj\Debug\NewBallGame.csprojAssemblyReference.cache
+D:\Visual Studio\Projects\NewBallGame\NewBallGame\obj\Debug\NewBallGame.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Projects\NewBallGame\NewBallGame\obj\Debug\NewBallGame.exe
+D:\Visual Studio\Projects\NewBallGame\NewBallGame\obj\Debug\NewBallGame.pdb
+G:\NewBallGame\NewBallGame\bin\Debug\NewBallGame.exe.config
+G:\NewBallGame\NewBallGame\bin\Debug\NewBallGame.exe
+G:\NewBallGame\NewBallGame\bin\Debug\NewBallGame.pdb
+G:\NewBallGame\NewBallGame\obj\Debug\NewBallGame.csprojAssemblyReference.cache
+G:\NewBallGame\NewBallGame\obj\Debug\NewBallGame.csproj.CoreCompileInputs.cache
+G:\NewBallGame\NewBallGame\obj\Debug\NewBallGame.exe
+G:\NewBallGame\NewBallGame\obj\Debug\NewBallGame.pdb
+D:\Visual Studio\Projects\NewBallGame\NewBallGame\bin\Debug\Newtonsoft.Json.dll
+D:\Visual Studio\Projects\NewBallGame\NewBallGame\bin\Debug\Newtonsoft.Json.xml
+D:\Visual Studio\Projects\NewBallGame\NewBallGame\obj\Debug\NewBallGame.csproj.CopyComplete
+D:\Visual Studio\Projects\NewBallGame\NewBallGame\bin\Debug\Shipwreck.Phash.dll
+D:\Visual Studio\Projects\NewBallGame\NewBallGame\bin\Debug\Shipwreck.Phash.PresentationCore.dll
+D:\Visual Studio\Projects\NewBallGame\NewBallGame\bin\Debug\System.Numerics.Vectors.dll
+D:\Visual Studio\Projects\NewBallGame\NewBallGame\bin\Debug\WindowsBase.dll
+D:\Visual Studio\Projects\NewBallGame\NewBallGame\bin\Debug\Shipwreck.Phash.xml
+D:\Visual Studio\Projects\NewBallGame\NewBallGame\bin\Debug\System.Numerics.Vectors.xml
+D:\Visual Studio\NewBallGame\NewBallGame\obj\Debug\NewBallGame.csprojAssemblyReference.cache
+D:\Visual Studio\NewBallGame\NewBallGame\obj\Debug\NewBallGame.csproj.CoreCompileInputs.cache
+D:\Visual Studio\NewBallGame\NewBallGame\obj\Debug\NewBallGame.exe
+D:\Visual Studio\NewBallGame\NewBallGame\obj\Debug\NewBallGame.pdb
+D:\Visual Studio\NewBallGame\NewBallGame\bin\Debug\NewBallGame.exe.config
+D:\Visual Studio\NewBallGame\NewBallGame\bin\Debug\NewBallGame.exe
+D:\Visual Studio\NewBallGame\NewBallGame\bin\Debug\NewBallGame.pdb
+D:\Visual Studio\NewBallGame\NewBallGame\bin\Debug\Newtonsoft.Json.dll
+D:\Visual Studio\NewBallGame\NewBallGame\bin\Debug\Shipwreck.Phash.dll
+D:\Visual Studio\NewBallGame\NewBallGame\bin\Debug\Shipwreck.Phash.PresentationCore.dll
+D:\Visual Studio\NewBallGame\NewBallGame\bin\Debug\System.Numerics.Vectors.dll
+D:\Visual Studio\NewBallGame\NewBallGame\bin\Debug\WindowsBase.dll
+D:\Visual Studio\NewBallGame\NewBallGame\bin\Debug\Newtonsoft.Json.xml
+D:\Visual Studio\NewBallGame\NewBallGame\bin\Debug\Shipwreck.Phash.xml
+D:\Visual Studio\NewBallGame\NewBallGame\bin\Debug\System.Numerics.Vectors.xml
+D:\Visual Studio\NewBallGame\NewBallGame\obj\Debug\NewBallGame.csproj.CopyComplete
+C:\Users\student\Desktop\NewBallGame\NewBallGame\bin\Debug\NewBallGame.exe.config
+C:\Users\student\Desktop\NewBallGame\NewBallGame\bin\Debug\NewBallGame.exe
+C:\Users\student\Desktop\NewBallGame\NewBallGame\bin\Debug\NewBallGame.pdb
+C:\Users\student\Desktop\NewBallGame\NewBallGame\bin\Debug\Newtonsoft.Json.dll
+C:\Users\student\Desktop\NewBallGame\NewBallGame\bin\Debug\Shipwreck.Phash.dll
+C:\Users\student\Desktop\NewBallGame\NewBallGame\bin\Debug\Shipwreck.Phash.PresentationCore.dll
+C:\Users\student\Desktop\NewBallGame\NewBallGame\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\student\Desktop\NewBallGame\NewBallGame\bin\Debug\WindowsBase.dll
+C:\Users\student\Desktop\NewBallGame\NewBallGame\bin\Debug\Newtonsoft.Json.xml
+C:\Users\student\Desktop\NewBallGame\NewBallGame\bin\Debug\Shipwreck.Phash.xml
+C:\Users\student\Desktop\NewBallGame\NewBallGame\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\student\Desktop\NewBallGame\NewBallGame\obj\Debug\NewBallGame.csprojAssemblyReference.cache
+C:\Users\student\Desktop\NewBallGame\NewBallGame\obj\Debug\NewBallGame.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\NewBallGame\NewBallGame\obj\Debug\NewBallGame.csproj.CopyComplete
+C:\Users\student\Desktop\NewBallGame\NewBallGame\obj\Debug\NewBallGame.exe
+C:\Users\student\Desktop\NewBallGame\NewBallGame\obj\Debug\NewBallGame.pdb
